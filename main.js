@@ -1,3 +1,4 @@
+//This gets called once the document is loaded
 $(function () {
 
 	var subjectsArray;
